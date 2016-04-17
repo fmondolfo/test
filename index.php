@@ -4,3 +4,5 @@ $toto = "toto";
 
 $var = "var";
 //new comment
+
+$coucou = "coucou";
